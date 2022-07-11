@@ -10,7 +10,7 @@
 -   [CVE-2022-32207](https://ubuntu.com/security/notices/USN-5495-1)
 -   [CVE-2022-2068](https://ubuntu.com/security/notices/USN-5488-1)
 
-     - released images to mitigate PCRE, dpkg, OpenSSL, CURL and E2fsprogs Vulnerabilities.
+      - released images to mitigate PCRE, dpkg, OpenSSL, CURL and E2fsprogs Vulnerabilities.
 
 
 :20220616.v1

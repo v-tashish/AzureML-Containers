@@ -12,7 +12,6 @@
 
 - released images to mitigate PCRE, dpkg, OpenSSL, CURL and E2fsprogs Vulnerabilities.
 
-
 :20220616.v1
 ------------------- 
 -   **Dependencies** :

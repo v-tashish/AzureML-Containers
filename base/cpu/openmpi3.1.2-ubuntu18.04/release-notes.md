@@ -8,7 +8,7 @@
 -   [CVE-2022-1664](https://ubuntu.com/security/notices/USN-5464-1)
 -   [CVE-2022-1304](https://ubuntu.com/security/notices/USN-5464-1)
 
- - released images to mitigate E2fsprogs , OpenSSL and curl Vulnerabilities.
+- released images to mitigate E2fsprogs , OpenSSL and curl Vulnerabilities.
 
 :20220616.v1
 ------------------- 

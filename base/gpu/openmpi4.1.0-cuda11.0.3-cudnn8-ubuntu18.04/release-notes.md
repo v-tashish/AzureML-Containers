@@ -8,7 +8,7 @@
 -  [CVE-2022-1664](https://ubuntu.com/security/notices/USN-5446-1)
 -  [CVE-2019-13050](https://ubuntu.com/security/notices/USN-5431-1)
 -  [CVE-2022-1304](https://ubuntu.com/security/notices/USN-5464-1)
--  [CVE-2022-2068 ](https://ubuntu.com/security/notices/USN-5488-1)
+-  [CVE-2022-2068](https://ubuntu.com/security/notices/USN-5488-1)
 -  [CVE-2022-32208](https://ubuntu.com/security/notices/USN-5495-1)
 
 - released images to mitigate GnuPG,PCRE,dpkg,OpenSSL,curl and E2fsprogs Vulnerabilities

@@ -43,6 +43,8 @@ RUN apt-get update && \
     binutils-multiarch \
     libxml2-dev \
     #adding zlib package to mitigate vulnerabilities.
+    libcurl3-nss \
+    libudev1 \
     zlib1g \
     #adding package to mitigate vulnerabilities.
     e2fsprogs \
